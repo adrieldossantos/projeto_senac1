@@ -1,0 +1,2 @@
+def calendario():
+    print(input())
